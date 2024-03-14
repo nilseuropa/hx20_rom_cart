@@ -38,6 +38,9 @@ This emulator has an ESP32 in its heart to provide wireless ROM update capabilit
 
 ![](doc/ftp_cart.jpg)
 
+:camera: [See it in action](https://photos.google.com/share/AF1QipMuma70FzuCHWNQoMt1CCRNrimfOKazqg87h7Ul6GqiaPwG6kRcX4zg7sMcNq5RkA?key=eUxmN0t5NTZiamtFMTQtWUFrUUo1dGxTRENqZnB3)
+
+
 #### Interface pinout
 Use 5V to 3.3V level shifters on all ESP32 inputs. The only ESP32 output, the data line can be connected directly as the interface operates with TTL levels.
 
