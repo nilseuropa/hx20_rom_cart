@@ -1,0 +1,16 @@
+Partlist exported from /home/nils/EAGLE/projects/HX20_ROMCART/romcart.sch at 14.03.24 12:43
+
+Part Value         Device        Package       Description                          MF                MPN          OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+C1   100nF         C2,5-3        C2.5-3        CAPACITOR                                                                                38                    
+C2                 CPOL-EUE3.5-8 E3,5-8        POLARIZED CAPACITOR, European symbol                                                     13         C          
+IC1  27C256P       27C256P       DIL28-6       CMOS EPROM                           Arrow Electronics M27C256B15F1 1125431    93K7335   0                     
+IC2  74HC393N      74HC393N      DIL14         Dual 4-bit decade and binary COUNTER                                                     0                     
+IC3  74HC393N      74HC393N      DIL14         Dual 4-bit decade and binary COUNTER                                                     0                     
+IC4  74HC166N      74HC166N      DIL16         8-bit parallel load SHIFT REGISTER                                                       1                     
+LED1               LED3MM        LED3MM        LED                                                                                      97                    
+Q1   BC546A        BC546A        TO92-EBC      NPN Transistor                                                                           0                     
+R1   3.3k          R-EU_0204/5   0204/5        RESISTOR, European symbol                                                                35         R          
+R2   3.3k          R-EU_0204/5   0204/5        RESISTOR, European symbol                                                                35         R          
+R3   10k           R-EU_0204/5   0204/5        RESISTOR, European symbol                                                                35         R          
+R4   2.2k          R-EU_0204/5   0204/5        RESISTOR, European symbol                                                                35         R          
+U$1  HX20_CASSETTE HX20_CASSETTE HX20_CASSETTE                                                                                                                
